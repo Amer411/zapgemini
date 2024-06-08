@@ -2,7 +2,7 @@ import PIL.Image
 import google.generativeai as genai
 from selenium.webdriver import Keys
 
-GOOGLE_API_KEY = "SUA_API_KEY"
+GOOGLE_API_KEY = "sk-wkw-rXm8fGx0F5u8Ac8vDq11T3BlbkFJBp55550tmvhrND1xt0K6"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 
